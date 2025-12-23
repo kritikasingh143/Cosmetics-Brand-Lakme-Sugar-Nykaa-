@@ -69,8 +69,11 @@ Brand-wise sales data
 Product category and popularity
 
 📸 Dashboard Preview
+https://github.com/kritikasingh143/Cosmetics-Brand-Lakme-Sugar-Nykaa-/blob/main/Screenshot%202025-11-27%20201609.png
+https://github.com/kritikasingh143/Cosmetics-Brand-Lakme-Sugar-Nykaa-/blob/main/Screenshot%202025-11-27%20201815.png
+https://github.com/kritikasingh143/Cosmetics-Brand-Lakme-Sugar-Nykaa-/blob/main/Screenshot%202025-11-27%20201910.png
+https://github.com/kritikasingh143/Cosmetics-Brand-Lakme-Sugar-Nykaa-/blob/main/Screenshot%202025-11-27%20201932.png
 
-(Add screenshots of your Excel dashboard here)
 
 🧠 Conclusion
 
