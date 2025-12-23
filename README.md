@@ -60,13 +60,6 @@ Data Cleaning & Formatting
 
 Dashboard Design
 
-📂 Dataset Details
-
-Customer demographics (age, gender, senior status)
-
-Brand-wise sales data
-
-Product category and popularity
 
 📸 Dashboard Preview
 https://github.com/kritikasingh143/Cosmetics-Brand-Lakme-Sugar-Nykaa-/blob/main/Screenshot%202025-11-27%20201609.png
